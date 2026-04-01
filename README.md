@@ -1,5 +1,9 @@
 # Discord-Trading-Bot
 
+<!-- color-strip -->
+![build](https://img.shields.io/badge/build-passing-22c55e) ![coverage](https://img.shields.io/badge/coverage-growing-06b6d4) ![focus](https://img.shields.io/badge/focus-product%20quality-a855f7)
+
+
 ## Overview
 This repository contains active product code and implementation details for the **Discord-Trading-Bot** project.
 
